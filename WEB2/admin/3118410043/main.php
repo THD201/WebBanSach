@@ -8,12 +8,12 @@
 </head>
 
 <body>
-
+	
 	<form name="frmdangky" action="#" method="get" onsubmit="return xulysubmit();">
 		<div style="border:#999999 solid 3px; width:50%; margin:auto;"  >
 
 			<div style="text-align:center; height:30px; line-height:30px; background-color:#999999">PHIẾU ĐẶT PHÒNG</div>
-			
+								
 			<div >
 				<div class="left">Họ tên*</div>
 			</div>
